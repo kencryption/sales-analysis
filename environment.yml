@@ -1,0 +1,13 @@
+name: sales_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyter
+  - seaborn
+  - pandas
+  - scikit-learn
+  - numpy
+  - matplotlib
+prefix: C:\Users\kenri\anaconda3\envs\sales_env
